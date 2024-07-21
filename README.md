@@ -6,7 +6,7 @@ anyways hi! I'm R0CK3T_DEV, or just Jay. I'm a software and web developer profes
 
 ## Projects
 
-I currently don't have any public projects on GitHub, but I'm working on a few.
+I currently don't have any highlight-worthy public projects on GitHub, but I'm working on a few as of writing this.
 
 ## Published projects
 
