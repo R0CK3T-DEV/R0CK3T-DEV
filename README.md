@@ -31,27 +31,27 @@ Here are the technologies and tools I use. Be aware that I can learn new things,
 
 ## Programming Languages
 
-![JS, TS, HTML, CSS, PHP, C# (Unity), Lua (Roblox)](https://skillicons.dev/icons?i=javascript,typescript,html,css,php,cs,robloxstudio,lua)
+![JS, TS, HTML, CSS, PHP, C# (Unity), Lua (Roblox)](https://skillicons.dev/icons?i=javascript,typescript,html,css,php,cs,robloxstudio,lua)  
 Javascript, Typescript, HTML, CSS, PHP, C# (Unity), Lua (Roblox)
 
 ## Operating Systems
 
-![Windows, Linux Mint](https://skillicons.dev/icons?i=windows,mint)
+![Windows, Linux Mint](https://skillicons.dev/icons?i=windows,mint)  
 Window 10, Linux Mint
 
 ## Frameworks / libraries
 
-![React, Redux, Tailwind, Vite, Sass, Bootstrap, Express](https://skillicons.dev/icons?i=react,redux,tailwindcss,vite,sass,bootstrap,express)
+![React, Redux, Tailwind, Vite, Sass, Bootstrap, Express](https://skillicons.dev/icons?i=react,redux,tailwindcss,vite,sass,bootstrap,express)  
 React, Redux, Tailwind, Vite, Sass, Bootstrap, Express
 
 ## Dev tools
 
-![VSCode, Visual Studio 2022, Git, Github, Firebase, MySQL, NPM](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,firebase,mysql,npm)
+![VSCode, Visual Studio 2022, Git, Github, Firebase, MySQL, NPM](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,firebase,mysql,npm)  
 VSCode, Visual Studio 2022, Git, Github, Firebase, MySQL, NPM
 
 ## Game engines
 
-![Unity, Godot](https://skillicons.dev/icons?i=unity,godot)
+![Unity, Godot](https://skillicons.dev/icons?i=unity,godot)  
 Unity, Godot
 
 ---
