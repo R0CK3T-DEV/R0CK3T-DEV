@@ -61,7 +61,7 @@ Unity, Godot
 Here are my social media links (I don't act professionally on any of them, except for LinkedIn):
 
 <div align="center">
-    <a href="https://">
+    <a href="https://www.linkedin.com/in/ezequiel-zapata-a1b1b5298/">
         <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
     <a href="https://github.com/R0CK3T-DEV">
