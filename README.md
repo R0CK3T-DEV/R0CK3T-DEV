@@ -70,7 +70,7 @@ Here are my social media links (I don't act professionally on any of them, excep
     <a href="https://x.com/R0CK3T_DEV">
         <img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"/>
     </a>
-    <a href="https://">
+    <a href="https://instagram.com/r0ck3t_dev">
         <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>
     </a>
 </div>
