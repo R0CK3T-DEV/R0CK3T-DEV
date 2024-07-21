@@ -64,7 +64,7 @@ Unity, Godot
 
 Here are my social media links (I don't act professionally on any of them, except for LinkedIn):
 
-<div align="center">
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
     <a href="https://www.linkedin.com/in/ezequiel-zapata-a1b1b5298/">
         <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
@@ -81,10 +81,10 @@ Here are my social media links (I don't act professionally on any of them, excep
 
 <br/>
 
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=discord"/>
     <br/>
-    my discord is r0ck3t_dev
+    <p style="margin-top: -16px;">my discord is r0ck3t_dev</p>
 </div>
 
 ---
@@ -93,7 +93,7 @@ Here are my social media links (I don't act professionally on any of them, excep
 
 BLINKIE COLLECTION ATTACK GO
 
-<div style="display: flex; justify-content: center; max-width: 100%; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; max-width: 100%; flex-wrap: wrap; gap: 10px;">
     <img alt="blinkie" src="./blinkies/0014-pride.gif"/>
     <img alt="blinkie" src="./blinkies/0061-pinkcomputer.gif"/>
     <img alt="blinkie" src="./blinkies/0073-gay.gif"/>
@@ -133,7 +133,7 @@ BLINKIE COLLECTION ATTACK GO
     <img alt="blinkie" src="./blinkies/tumblr_9c2a8b4d76d8c13f5d686def2f631d89_5329e3dd_1280.webp"/>
 </div>
 
-<div style="display: flex; justify-content: center; max-width: 100%; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; max-width: 100%; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
     <img alt="blinkie" src="./blinkies/tumblr_b5d6794f95be310ae2f8506a1f2eec12_75dc3578_100.png"/>
     <img alt="blinkie" src="./blinkies/tumblr_pofep92i1H1y8ua8do8_100.png"/>
 </div>
