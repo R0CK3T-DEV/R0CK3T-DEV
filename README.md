@@ -40,22 +40,22 @@ Javascript, Typescript, HTML, CSS, PHP, C# (Unity), Lua (Roblox)
 
 ## Operating Systems
 
-![Windows, Linux Mint](https://skillicons.dev/icons?i=windows,mint)  
-Window 10, Linux Mint
+![Windows, Linux Mint](https://skillicons.dev/icons?i=windows,ubuntu)  
+Window 11, Ubuntu (Zorin OS)
 
 ## Frameworks / libraries
 
-![React, Redux, Tailwind, Vite, Sass, Bootstrap, Express](https://skillicons.dev/icons?i=react,redux,tailwindcss,vite,sass,bootstrap,express)  
-React, Redux, Tailwind, Vite, Sass, Bootstrap, Express
+![React, Redux, Tailwind, Vite, Sass, Express](https://skillicons.dev/icons?i=react,redux,tailwindcss,vite,sass,express)  
+React, Redux, Tailwind, Vite, Sass, Express
 
 ## Dev tools
 
 ![VSCode, Visual Studio 2022, Git, Github, Firebase, MySQL, NPM](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,firebase,mysql,npm)  
-VSCode, Visual Studio 2022, Git, Github, Firebase, MySQL, NPM
+Visual Studio Code, Visual Studio 2022, Git, Github, Firebase, MySQL, NPM
 
 ## Game engines
 
-![Unity, Godot](https://skillicons.dev/icons?i=unity,godot)  
+![Unity, Godot](https://skillicons.dev/icons?i=unity,godot)
 Unity, Godot
 
 ---
@@ -71,20 +71,9 @@ Here are my social media links (I don't act professionally on any of them, excep
     <a href="https://github.com/R0CK3T-DEV">
         <img alt="GitHub" src="https://skillicons.dev/icons?i=github"/>
     </a>
-    <a href="https://x.com/R0CK3T_DEV">
+    <a href="https://x.com/R0CK3TDEV">
         <img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"/>
     </a>
-    <a href="https://instagram.com/r0ck3t_dev">
-        <img alt="Instagram" src="https://skillicons.dev/icons?i=instagram"/>
-    </a>
-</div>
-
-<br/>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-    <br/>
-    <p style="margin-top: -16px;">my discord is r0ck3t_dev</p>
 </div>
 
 ---
