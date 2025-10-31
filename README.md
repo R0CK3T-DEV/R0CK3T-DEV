@@ -1,7 +1,17 @@
-hi im r0ck3tdev or Jay  
-im 19 (2006 baby) ive been coding since like 11
-
-i make roblox games and websites
+<div style="display: flex; justify-content: start; align-items: center; max-width: 100%; flex-wrap: wrap; gap: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/40042886?v=4" style="width: 64px; border-radius: 100%;" />
+    <div>
+        hi im
+        <strong>
+            <u>r0ck3tdev</u>
+        </strong>
+        or <u>Jay</u>
+        <br/>
+        im 19 (2006 baby) ive been coding since like 11
+        <br/>
+        i make roblox games and websitves
+    </div>
+</div>
 
 ## my stuff
 - DevGame - platformer roblox game inspired on Sly Cooper
